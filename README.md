@@ -12,7 +12,7 @@ Não há dependências externas além das bibliotecas padrão do Python.
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/marqsleal/prog2-projeto-final.git
+   git clone https://github.com/MariaPaulaAndrade/sistema-gerenciamento-inventario.git
 
 2. Execute o arquivo _main.py_:
    ```bash
